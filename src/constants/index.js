@@ -21,47 +21,13 @@ export const navLinks = [
     },
 ];
 
-export const clientReviews = [
-    {
-        id: 1,
-        name: 'Emily Johnson',
-        position: 'Marketing Director at GreenLeaf',
-        img: 'assets/review1.png',
-        review:
-            'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
-    },
-    {
-        id: 2,
-        name: 'Mark Rogers',
-        position: 'Founder of TechGear Shop',
-        img: 'assets/review2.png',
-        review:
-            'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
-    },
-    {
-        id: 3,
-        name: 'John Dohsas',
-        position: 'Project Manager at UrbanTech ',
-        img: 'assets/review3.png',
-        review:
-            'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
-    },
-    {
-        id: 4,
-        name: 'Ether Smith',
-        position: 'CEO of BrightStar Enterprises',
-        img: 'assets/review4.png',
-        review:
-            'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
-    },
-];
 
 export const myProjects = [
     {
         title: 'Betfelagi',
-        desc: 'Bet felagi is a website that will let you find houses and also lets your houses .you can create an account an post a house .',
+        desc: 'Betfelagi is a user-friendly platform that enables individuals to effortlessly post and browse available houses for rent or sale. Whether you re a property owner looking to list your house or a prospective tenant or buyer, Betfelagi simplifies the process, making it easy to connect with the right people.',
         subdesc:
-            'Built with React.js  Tailwind CSS, Nodejs,MongoDB  and Betfelagi is designed for optimal performance and scalability.',
+            'Built using React.js, Tailwind CSS, Node.js, and MongoDB, Betfelagi is designed to deliver exceptional performance and scalability. Its intuitive interface ensures a seamless experience for users, whether they are posting a property or exploring available listings.',
         href: 'https://betfelagi.vercel.app/',
         texture: '/textures/project/project1.mp4',
         logo: '/assets/logo.ico',
@@ -130,9 +96,9 @@ export const myProjects = [
     
     {
         title: 'Amdesilase Sunday School',
-        desc: 'Amdesilase Sunday School is a registration website for Students and it is currently being used .',
+        desc: 'Amdesilase Sunday School is an efficient platform designed to facilitate student registration for the Sunday School program. It provides an easy and organized way to manage student records and registration processes, ensuring a smooth experience for administrators and students alike.',
         subdesc:
-            'It is buit with react.js ,MaterialUI ,MongoDB ,css and provides registration for students of the Sunday School',
+            'Developed with React.js, Material UI, CSS, and MongoDB, the platform is built for reliability and usability. Amdesilase Sunday School streamlines the registration process while offering a modern and user-friendly interface tailored to the needs of the Sunday School community.',
         href: 'https://amdesilase.vercel.app',
         texture: '/textures/project/project3.mp4',
         logo: '/assets/amdesilaselogo.png',

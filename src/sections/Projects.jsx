@@ -19,9 +19,9 @@ const Projects = () => {
         })
     }
   return (
-    <section className='c-space my-20'>
+    <section id='#work' className='c-space my-20'>
         <p className='head-text'>My work</p>
-        <div className='grid lg:grid-cols-2 grid cols-1 mt-12 gap-5 w-full'>
+        <div className=' mt-12  w-full'>
             <div className='flex flex-col gap-5 relative sm:p-10 px-5 shadow-2xl shadow-black-200'>
                 <div className='absolute top-0 right-0'>
                     <img src={currentProject.spotlight} alt='spotlight' className='w-full h-96 object-cover rounded-xl'/>
@@ -56,7 +56,7 @@ const Projects = () => {
                     </button>
                 </div>
             </div>
-            <div className='border border-black-300 bg-black-200 rounded-lg h-96 md:h-full '>
+            {/* <div className='border border-black-300 bg-black-200 rounded-lg h-96 md:h-full '>
                 <Canvas>
                     <ambientLight intensity={1}/>
                     <directionalLight position={[10,10,5]}/>
@@ -68,7 +68,7 @@ const Projects = () => {
                         </Suspense>
                     </Center>
                 </Canvas>
-            </div>
+            </div> */}
         </div>
       
     </section>

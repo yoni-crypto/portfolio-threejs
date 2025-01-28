@@ -150,6 +150,19 @@ body {
     @apply w-12 h-12 rounded-full flex justify-center items-center bg-black-300 border border-black-200;
   }
 }
+/* Ensure this class exists in your CSS file */
+.cursor-pointer {
+  cursor: pointer; /* Pointer cursor for clickable elements */
+}
+
+.hover\:underline:hover {
+  text-decoration: underline; /* Optional hover effect */
+}
+
+/* If necessary, add styles for the link itself */
+a {
+  text-decoration: none; /* Ensure no underline by default */
+}
 
 .waving-hand {
   animation-name: wave-animation;
