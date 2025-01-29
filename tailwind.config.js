@@ -6,6 +6,13 @@ export default {
       fontFamily: {
         generalsans: ['General Sans', 'sans-serif'],
       },
+      screens: {
+        'custom-md': '900px', // Add this breakpoint for 900px
+        'sm': '640px',
+        'md': '768px',
+        'lg': '1024px',
+        'xl': '1280px',
+      },
       colors: {
         black: {
           DEFAULT: '#000',
