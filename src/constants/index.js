@@ -57,8 +57,155 @@ export const myProjects = [
                 id:4,
                 name:'Node.js',
                 path:'/assets/nodejs.png'
+            },
+            {
+                id:6,
+                name:'Cloudinary',
+                path:'/assets/cloudinary.png'
             }
             
+        ],
+    },
+   
+    
+    
+    {
+        title: 'Food Hub ',
+        desc: 'Food Hub is a Website which you can order food from and pay a payment using Stripe  ',
+        subdesc:
+            'Developed with React.js, CSS, and MongoDB, the platform is built for reliability and usability. ',
+        href: 'https://foodsite-fr.vercel.app',
+        texture: '/textures/project/project4.mp4',
+        logo: '/assets/foodsitelogo.png',
+        logoStyle: {
+            backgroundColor: '#60f5a1',
+            background:
+                'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+            border: '0.2px solid rgba(208, 213, 221, 1)',
+            boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+        },
+        spotlight: '/assets/spotlight4.png',
+        tags: [
+            {
+                id: 1,
+                name: 'React.js',
+                path: '/assets/react.svg',
+            },
+            {
+                id: 3,
+                name: 'MongoDB',
+                path: '/assets/mongodblogo.png',
+            },
+            {
+                id:4,
+                name:'Node.js',
+                path:'/assets/nodejs.png'
+            },
+            {
+                id:4,
+                name:'Css',
+                path:'/assets/icons8-css-100.png'
+            },
+            {
+                id:5,
+                name:'Stripe',
+                path:'/assets/stripe.png'
+            },
+            {
+                id:6,
+                name:'Cloudinary',
+                path:'/assets/cloudinary.png'
+            }
+
+        ],
+    },
+    {
+        title: 'Food Hub Admin Page  ',
+        desc: 'Food Hub Admin Page is the admin page for the previous FoodHub website where  you can add food from here ,view Orders pay Delete orders ,Update Tracking for orders  ',
+        subdesc:
+            'Developed with React.js, CSS, and MongoDB, the platform is built for reliability and usability. ',
+        href: 'https://foodsite-admin.vercel.app',
+        texture: '/textures/project/project5.mp4',
+        logo: '/assets/foodsitelogo.png',
+        logoStyle: {
+            backgroundColor: '#60f5a1',
+            background:
+                'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+            border: '0.2px solid rgba(208, 213, 221, 1)',
+            boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+        },
+        spotlight: '/assets/spotlight4.png',
+        tags: [
+            {
+                id: 1,
+                name: 'React.js',
+                path: '/assets/react.svg',
+            },
+            {
+                id: 3,
+                name: 'MongoDB',
+                path: '/assets/mongodblogo.png',
+            },
+            {
+                id:4,
+                name:'Node.js',
+                path:'/assets/nodejs.png'
+            },
+            {
+                id:4,
+                name:'Css',
+                path:'/assets/icons8-css-100.png'
+            },
+            {
+                id:5,
+                name:'Stripe',
+                path:'/assets/stripe.png'
+            },
+            {
+                id:6,
+                name:'Cloudinary',
+                path:'/assets/cloudinary.png'
+            }
+
+        ],
+    },
+    {
+        title: 'Amdesilase Sunday School',
+        desc: 'Amdesilase Sunday School is an efficient platform designed to facilitate student registration for the Sunday School program. It provides an easy and organized way to manage student records and registration processes, ensuring a smooth experience for administrators and students alike.',
+        subdesc:
+            'Developed with React.js, Material UI, CSS, and MongoDB, the platform is built for reliability and usability. Amdesilase Sunday School streamlines the registration process while offering a modern and user-friendly interface tailored to the needs of the Sunday School community.',
+        href: 'https://amdesilase.vercel.app',
+        texture: '/textures/project/project3.mp4',
+        logo: '/assets/amdesilaselogo.png',
+        logoStyle: {
+            backgroundColor: '#60f5a1',
+            background:
+                'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+            border: '0.2px solid rgba(208, 213, 221, 1)',
+            boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+        },
+        spotlight: '/assets/spotlight3.png',
+        tags: [
+            {
+                id: 1,
+                name: 'React.js',
+                path: '/assets/react.svg',
+            },
+            {
+                id: 3,
+                name: 'MongoDB',
+                path: '/assets/mongodblogo.png',
+            },
+            {
+                id:4,
+                name:'Node.js',
+                path:'/assets/nodejs.png'
+            },
+            {
+                id: 5,
+                name: 'Material UI',
+                path: '/assets/mui.png',
+            }
         ],
     },
     {
@@ -93,43 +240,6 @@ export const myProjects = [
             },
         ],
     },
-    
-    {
-        title: 'Amdesilase Sunday School',
-        desc: 'Amdesilase Sunday School is an efficient platform designed to facilitate student registration for the Sunday School program. It provides an easy and organized way to manage student records and registration processes, ensuring a smooth experience for administrators and students alike.',
-        subdesc:
-            'Developed with React.js, Material UI, CSS, and MongoDB, the platform is built for reliability and usability. Amdesilase Sunday School streamlines the registration process while offering a modern and user-friendly interface tailored to the needs of the Sunday School community.',
-        href: 'https://amdesilase.vercel.app',
-        texture: '/textures/project/project3.mp4',
-        logo: '/assets/amdesilaselogo.png',
-        logoStyle: {
-            backgroundColor: '#60f5a1',
-            background:
-                'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
-            border: '0.2px solid rgba(208, 213, 221, 1)',
-            boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
-        },
-        spotlight: '/assets/spotlight3.png',
-        tags: [
-            {
-                id: 1,
-                name: 'React.js',
-                path: '/assets/react.svg',
-            },
-            {
-                id: 3,
-                name: 'MongoDB',
-                path: '/assets/mongodblogo.png',
-            },
-            {
-                id:4,
-                name:'Node.js',
-                path:'/assets/nodejs.png'
-            }
-        ],
-    },
-    
-        
 ];
 
 export const calculateSizes = (isSmall, isMobile, isTablet) => {
