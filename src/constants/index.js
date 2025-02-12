@@ -170,6 +170,45 @@ export const myProjects = [
         ],
     },
     {
+        title: "Hotel Management System",
+        desc: "The Hotel Management System is designed to streamline hotel operations and enhance guest experiences. This platform enables efficient management of bookings, rooms, and guests, all from a user-friendly interface.",
+        subdesc: "Developed with Next.js, Tailwind CSS, Material UI, and Recharts, the platform ensures a modern, responsive, and interactive user experience. Built for scalability and ease of use.",
+        href: "https://hotel-managment-nextjs-frontend.onrender.com",
+        texture: '/textures/project/project5.mp4',
+        logo: "/assets/hotel.png",
+        logoStyle: {
+          backgroundColor: "#4CAF50",
+          background: "linear-gradient(0deg, #4CAF5050, #4CAF5050), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)",
+          border: "0.2px solid rgba(208, 213, 221, 1)",
+          boxShadow: "0px 0px 60px 0px rgba(35, 131, 96, 0.3)"
+        },
+        spotlight: '/assets/spotlight4.png',
+        tags: [
+          {
+            id: 1,
+            name: "Next.js",
+            path: "/assets/nextjs.png"
+          },
+          {
+            id: 2,
+            name: "Tailwind CSS",
+            path: "/assets/tailwindcss.png"
+          },
+          {
+            id: 3,
+            name: "Material UI",
+            path: "/assets/mui.png"
+          },
+        //   {
+        //     id: 4,
+        //     name: "Recharts",
+        //     path: "/assets/recharts.svg"
+        //   },
+          
+        ]
+      },
+      
+    {
         title: 'Amdesilase Sunday School',
         desc: 'Amdesilase Sunday School is an efficient platform designed to facilitate student registration for the Sunday School program. It provides an easy and organized way to manage student records and registration processes, ensuring a smooth experience for administrators and students alike.',
         subdesc:
